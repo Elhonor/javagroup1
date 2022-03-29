@@ -3,6 +3,7 @@ package com.company;
 import java.util.*;
 
 class outerClass {
+	int b = 10;
     int a = 5;
     class innerClass{
         public int myInnerClassMethod(){
