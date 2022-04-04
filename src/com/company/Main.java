@@ -32,7 +32,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Git is running");
         System.out.println("But there is a problem with internet");
-        System.out.println("New days");
+        System.out.println("Hello");
 	// write your code here
 //        System.out.println("Hello world" + " and UFOs" + " 124585" + "45454");
 //        System.out.println("David" + " Alberto");
